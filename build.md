@@ -1,3 +1,4 @@
+Reddit: 2026.04.0  
 YouTube: 20.45.36  
 YouTube-Music: 8.44.54  
 
