@@ -11,9 +11,9 @@ rv-brand = "Morphe"
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
-# uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-# arch = "arm64-v8a"
+arch = "arm64-v8a"
 
 [YouTube-Music]
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
