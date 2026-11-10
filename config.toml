@@ -21,7 +21,7 @@ rv-brand = "Piko"
 patches-source = "crimera/piko"
 direct-dlurl = "https://cloud.doley.qzz.io/f/DYcP/com.instagram.android-452.1.0.53.64-arm64-v8a.apkm"
 arch = "arm64-v8a"
-# version = "452.1.0.53.64"
+version = "452.1.0.53.64"
 
 [Twitter]
 rv-brand = "Piko"
