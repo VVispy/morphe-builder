@@ -1,42 +1,43 @@
-enable-module-update = true 
+enable-module-update = true
 parallel-jobs = 1
 
-# https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md 
-# enabled = false
-
 [YouTube]
-enabled = false
+enabled = true
 direct-dlurl = "https://cloud.doley.qzz.io/f/rbI5/com.google.android.youtube-21.30.216-all.apk"
-arch = "all"
+version = "21.30.216"
 
 [YouTube-Music]
-enabled = false
+enabled = true
 direct-dlurl = "https://cloud.doley.qzz.io/f/MWs3/com.google.android.apps.youtube.music-9.30.53-arm64-v8a.apk"
 arch = "arm64-v8a"
+version = "9.30.53"
 
 [Reddit]
-enabled = false
+enabled = true
 direct-dlurl = "https://cloud.doley.qzz.io/f/0JTp/com.reddit.frontpage-2026.40.0-all.apkm"
-arch = "all"
+version = "2026.40.0"
 
 [Instagram]
+enabled = true
 rv-brand = "Piko"
 patches-source = "crimera/piko"
+patches-version = "v3.11.1"
 direct-dlurl = "https://cloud.doley.qzz.io/f/DYcP/com.instagram.android-452.1.0.53.64-arm64-v8a.apkm"
 arch = "arm64-v8a"
 version = "452.1.0.53.64"
 
 [Twitter]
+enabled = true
 rv-brand = "Piko"
 patches-source = "crimera/piko-newx"
-direct-dlurl = "https://cloud.doley.qzz.io/f/GjjHP/com.twitter.android-12.41.0-arm64-v8a.apkm"
+patches-version = "v3.75.0"
+direct-dlurl = "https://cloud.doley.qzz.io/f/7Au0/com.twitter.android-12.41.0-prod.01-arm64-v8a.apkm"
 arch = "arm64-v8a"
-version = "12.41.0"
+version = "12.41.0-prod.01"
 
 [TikTok]
-rv-brand = "HushFeed"
+enabled = true
+rv-brand = "Hushfeed"
 patches-source = "SysAdminDoc/hushfeed"
-included-patches = "'AMOLED dark theme'"
 direct-dlurl = "https://cloud.doley.qzz.io/f/OyJC2/com.zhiliaoapp.musically-47.7.2-all.apk"
-arch = "all"
 version = "47.7.2"
