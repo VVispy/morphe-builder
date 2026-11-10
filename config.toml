@@ -33,5 +33,6 @@ version = "12.41.0"
 [TikTok]
 rv-brand = "HushFeed"
 patches-source = "SysAdminDoc/hushfeed"
+included-patches = "'AMOLED dark theme'"
 direct-dlurl = "https://cloud.doley.qzz.io/f/OyJC2/com.zhiliaoapp.musically-47.7.2-all.apk"
 arch = "all"
