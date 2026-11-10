@@ -13,6 +13,3 @@ Patches: crimera/piko/patches-3.11.0.mpp
 CLI: MorpheApp/morphe-cli/morphe-desktop-2.1.1-all.jar  
 Patches: SysAdminDoc/hushfeed/patches-0.81.0.mpp  
 [Changelog](https://github.com/SysAdminDoc/hushfeed/releases/tag/v0.81.0)  
-
-Skipped:  
-Patches: MorpheApp/morphe-patches/patches-2.1.0.mpp    
