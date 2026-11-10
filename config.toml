@@ -5,14 +5,17 @@ parallel-jobs = 1
 # enabled = false
 
 [YouTube]
+enabled = false
 direct-dlurl = "https://cloud.doley.qzz.io/f/rbI5/com.google.android.youtube-21.30.216-all.apk"
 arch = "all"
 
 [YouTube-Music]
+enabled = false
 direct-dlurl = "https://cloud.doley.qzz.io/f/MWs3/com.google.android.apps.youtube.music-9.30.53-arm64-v8a.apk"
 arch = "arm64-v8a"
 
 [Reddit]
+enabled = false
 direct-dlurl = "https://cloud.doley.qzz.io/f/0JTp/com.reddit.frontpage-2026.40.0-all.apkm"
 arch = "all"
 
