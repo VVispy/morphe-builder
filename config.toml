@@ -40,5 +40,5 @@ enabled = true
 rv-brand = "Hushfeed"
 patches-source = "SysAdminDoc/hushfeed"
 included-patches = "'AMOLED dark theme'"
-direct-dlurl = "https://cloud.doley.qzz.io/f/m6duR/com.zhiliaoapp.musically-47.7.3-all.apk"
-version = "47.7.3"
+direct-dlurl = "https://cloud.doley.qzz.io/f/xmEUj/com.zhiliaoapp.musically-47.8.3-all.apk"
+version = "47.8.3"
